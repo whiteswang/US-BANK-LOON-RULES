@@ -63,6 +63,8 @@ DOMAIN-KEYWORD,fidelity
 
 # Fintech
 DOMAIN-SUFFIX,sofi.com
+DOMAIN-SUFFIX,soficdn.net
+DOMAIN-SUFFIX,sofi.glassboxdigital.io
 DOMAIN-SUFFIX,revolut.com
 DOMAIN-SUFFIX,ally.com
 DOMAIN-SUFFIX,alliantcreditunion.org
