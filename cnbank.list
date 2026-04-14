@@ -1,0 +1,39 @@
+# --- 国有大行 ---
+HOST-SUFFIX,icbc.com.cn,direct
+HOST-SUFFIX,icbc.com,direct
+HOST-SUFFIX,ccb.com.cn,direct
+HOST-SUFFIX,ccb.com,direct
+HOST-SUFFIX,95599.cn,direct
+HOST-SUFFIX,abchina.com,direct
+HOST-SUFFIX,bscabank.com,direct
+HOST-SUFFIX,openaboc.cn,direct
+HOST-SUFFIX,openaboc.com,direct
+HOST-SUFFIX,openaboc.com.cn,direct
+HOST-SUFFIX,boc.cn,direct
+HOST-SUFFIX,bankofchina.com,direct
+HOST-SUFFIX,bankcomm.com,direct
+HOST-SUFFIX,psbc.com,direct
+HOST-SUFFIX,psbc.com.cn,direct
+
+# --- 股份制银行 ---
+HOST-SUFFIX,cmbchina.com,direct
+HOST-SUFFIX,cmbimg.com,direct
+HOST-SUFFIX,cib.com.cn,direct
+HOST-SUFFIX,cib.cn,direct
+HOST-SUFFIX,pingan.com.cn,direct
+HOST-SUFFIX,pingan.com,direct
+HOST-SUFFIX,citicbank.com,direct
+HOST-SUFFIX,ecitic.com,direct
+HOST-SUFFIX,spdb.com.cn,direct
+HOST-SUFFIX,cmbc.com.cn,direct
+HOST-SUFFIX,cebbank.com,direct
+HOST-SUFFIX,cgbchina.com.cn,direct
+HOST-SUFFIX,hxb.com.cn,direct
+
+# --- 城商行与数字银行 ---
+HOST-SUFFIX,bankofbeijing.com.cn,direct
+HOST-SUFFIX,bankofshanghai.com,direct
+HOST-SUFFIX,jsbchina.cn,direct
+HOST-SUFFIX,nbcb.com.cn,direct
+HOST-SUFFIX,mybank.cn,direct
+HOST-SUFFIX,webank.com,direct
