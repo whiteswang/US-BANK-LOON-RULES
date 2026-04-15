@@ -1,0 +1,28 @@
+# ==========================================
+# 规则名称: Talkatone 分流列表
+# 适用平台: Quantumult X (QX)
+# 转换说明: 移除了策略名后缀，方便在 QX 引用时手动绑定策略
+# 更新时间: 2024-05-23
+# ==========================================
+
+# > Talkatone Core Domains
+HOST-SUFFIX,talkatone.com
+HOST-SUFFIX,tktn.be
+HOST-SUFFIX,tktn.at
+HOST-KEYWORD,talkatone
+
+# > Dependencies & Validation (验证与依赖)
+HOST-SUFFIX,mobilefuse.com
+HOST-SUFFIX,inmobi.com
+HOST-SUFFIX,crashlytics.com
+HOST-SUFFIX,kochava.com
+HOST-SUFFIX,cohere.com
+HOST-SUFFIX,agkn.com
+HOST-SUFFIX,ip-api.com
+
+# > Voice & Media Servers (语音与媒体传输)
+IP-CIDR,50.117.27.0/24
+IP-CIDR,69.46.75.0/24
+IP-CIDR,205.164.56.0/24
+IP-CIDR,63.251.124.0/24
+IP-CIDR,204.145.72.0/24
